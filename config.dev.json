@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "badhonraj.test2.com",
-		"password": "badhon.2",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,19 +12,19 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "𝗣𝗶𝗸𝗮 - 𝗕𝗼𝘁 🦋",
-	"prefix": ".",
+	"nickNameBot": "Ava",
+	"prefix": ">",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100004819114915",
+		"61551997800865",
 		""
 	],
 	"whiteListMode": {
-		"enable": false,
-		"whiteListIds": [],
+		"enable": true,
+		"whiteListIds": ["61551997800865"],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
@@ -43,7 +43,7 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "kingbadhon1145@gmail.com",
+			"email": "",
 			"clientId": "554542695290-2nk4v3fbboohnkg6sgvr7qif7mr4hvan.apps.googleusercontent.com",
 			"clientSecret": "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",
 			"refreshToken": "1//04cduc6hIDfT_CgYIARAAGAQSNwF-L9IrgX8f6S5UqYztULjMBXKQX-CrFQUcdKE-OvIFnu6yRRL9hAda2foQTi7y6kDgEgomEoA",
